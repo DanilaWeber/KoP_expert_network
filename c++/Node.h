@@ -1,0 +1,2 @@
+#pragma onse
+class Node;
